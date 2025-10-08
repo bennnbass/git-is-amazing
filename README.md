@@ -8,3 +8,12 @@ A showcase of how amazing git is as a tool
 - **push** 
 
 - git status
+
+## common commands
+
+-git status
+-git add . 
+
+Here is another edit to my folder
+
+Here is an edit
